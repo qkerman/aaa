@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3858e450869603543ab8ae48f34d97a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedObject: {instanceID: 0}
+  - laser: {instanceID: 0}
+  - passthrough: {instanceID: 0}
+  - centerEyeAnchor: {instanceID: 0}
+  - modularMenu: {instanceID: 0}
+  - rightController: {instanceID: 0}
+  - leftController: {instanceID: 0}
+  - gallery: {instanceID: 0}
+  - creator: {instanceID: 0}
+  - editorMenu: {instanceID: 0}
+  - visitorMenu: {instanceID: 0}
+  - visitorOnlyMenu: {instanceID: 0}
+  - gizmo1: {fileID: 919132149155446097, guid: 4bb05b9f3b52be04b919fa7da4998646, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

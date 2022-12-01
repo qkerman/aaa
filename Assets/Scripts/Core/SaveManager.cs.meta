@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f21b9dca9c808f14c839e91eaf51a877
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imagePrefab: {fileID: 6300652725460020494, guid: 90c5dc0f55cbd8749ae97217dbab5292, type: 3}
+  - videoPrefab: {fileID: 3607699283542919651, guid: 919ee4f5847270a47af901c6f958dbdd, type: 3}
+  - video360Prefab: {fileID: 5534355936946437865, guid: eb121005fb4f0de419304f98b451d95b, type: 3}
+  - modelPrefab: {fileID: 235864110172830575, guid: e9c3e2f0abb4d09418fa328976d9f358, type: 3}
+  - soundPrefab: {fileID: 4491103956961502803, guid: 1ebcd3ceaaac92041a9abebf0aaba341, type: 3}
+  - lightPrefab: {fileID: 1103645295274076294, guid: 4ded155010dec3b498fa991dd5790a6e, type: 3}
+  - wallPrefab: {fileID: 427520887920652892, guid: e432037265abc604aba21aac9e987e00, type: 3}
+  - importLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
