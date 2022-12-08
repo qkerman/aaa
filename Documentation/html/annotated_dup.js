@@ -1,0 +1,38 @@
+var annotated_dup =
+[
+    [ "EVA", "namespace_e_v_a.html", [
+      [ "Artwork", "class_e_v_a_1_1_artwork.html", "class_e_v_a_1_1_artwork" ],
+      [ "AutoSelect", "class_e_v_a_1_1_auto_select.html", "class_e_v_a_1_1_auto_select" ],
+      [ "ComplexSlider", "class_e_v_a_1_1_complex_slider.html", "class_e_v_a_1_1_complex_slider" ],
+      [ "Control", "class_e_v_a_1_1_control.html", "class_e_v_a_1_1_control" ],
+      [ "Creator", "class_e_v_a_1_1_creator.html", "class_e_v_a_1_1_creator" ],
+      [ "FileChooser", "class_e_v_a_1_1_file_chooser.html", "class_e_v_a_1_1_file_chooser" ],
+      [ "HasSound", "interface_e_v_a_1_1_has_sound.html", "interface_e_v_a_1_1_has_sound" ],
+      [ "Image", "class_e_v_a_1_1_image.html", "class_e_v_a_1_1_image" ],
+      [ "IPinnable", "interface_e_v_a_1_1_i_pinnable.html", "interface_e_v_a_1_1_i_pinnable" ],
+      [ "Light", "class_e_v_a_1_1_light.html", "class_e_v_a_1_1_light" ],
+      [ "LightHandler", "class_e_v_a_1_1_light_handler.html", "class_e_v_a_1_1_light_handler" ],
+      [ "ListFiles", "class_e_v_a_1_1_list_files.html", "class_e_v_a_1_1_list_files" ],
+      [ "ListItem", "class_e_v_a_1_1_list_item.html", "class_e_v_a_1_1_list_item" ],
+      [ "Model3D", "class_e_v_a_1_1_model3_d.html", "class_e_v_a_1_1_model3_d" ],
+      [ "ModularHandler", "class_e_v_a_1_1_modular_handler.html", "class_e_v_a_1_1_modular_handler" ],
+      [ "ModularMenu", "class_e_v_a_1_1_modular_menu.html", "class_e_v_a_1_1_modular_menu" ],
+      [ "Object", "class_e_v_a_1_1_object.html", "class_e_v_a_1_1_object" ],
+      [ "Outline", "class_e_v_a_1_1_outline.html", "class_e_v_a_1_1_outline" ],
+      [ "SaveManager", "class_e_v_a_1_1_save_manager.html", "class_e_v_a_1_1_save_manager" ],
+      [ "SaveUI", "class_e_v_a_1_1_save_u_i.html", "class_e_v_a_1_1_save_u_i" ],
+      [ "SceneCommunication", "class_e_v_a_1_1_scene_communication.html", "class_e_v_a_1_1_scene_communication" ],
+      [ "Sound", "class_e_v_a_1_1_sound.html", "class_e_v_a_1_1_sound" ],
+      [ "SoundHandler", "class_e_v_a_1_1_sound_handler.html", "class_e_v_a_1_1_sound_handler" ],
+      [ "StringEvent", "class_e_v_a_1_1_string_event.html", null ],
+      [ "TransformHandler", "class_e_v_a_1_1_transform_handler.html", "class_e_v_a_1_1_transform_handler" ],
+      [ "UIManager", "class_e_v_a_1_1_u_i_manager.html", "class_e_v_a_1_1_u_i_manager" ],
+      [ "UISettings", "class_e_v_a_1_1_u_i_settings.html", "class_e_v_a_1_1_u_i_settings" ],
+      [ "Video", "class_e_v_a_1_1_video.html", "class_e_v_a_1_1_video" ],
+      [ "Video360", "class_e_v_a_1_1_video360.html", "class_e_v_a_1_1_video360" ],
+      [ "VisibilityMode", "class_e_v_a_1_1_visibility_mode.html", "class_e_v_a_1_1_visibility_mode" ],
+      [ "VisitorOnlyMenu", "class_e_v_a_1_1_visitor_only_menu.html", "class_e_v_a_1_1_visitor_only_menu" ],
+      [ "VRInputField", "class_e_v_a_1_1_v_r_input_field.html", "class_e_v_a_1_1_v_r_input_field" ],
+      [ "Wall", "class_e_v_a_1_1_wall.html", "class_e_v_a_1_1_wall" ]
+    ] ]
+];
